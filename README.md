@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teertho323
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java,python
+- 🌱 I’m currently learning java, App development
 - 💞️ I’m looking to collaborate on github
 
 <!---
