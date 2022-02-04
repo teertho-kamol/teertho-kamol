@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teertho323
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning java, App development
+- 🌱 I’m learning java, xml, sql, c, figma, android studio.
 - 💞️ I’m looking to collaborate on github
 
 <!---
