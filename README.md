@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teertho
+- 👋 Hi, I’m Teertho.
 - 👀 I’m interested in App Development.
 - 🌱 I’m learning java, xml, sql, c, figma, android studio.
 - 💞️ I’m looking to collaborate on github
