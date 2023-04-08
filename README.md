@@ -32,17 +32,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teertho-kamol&show_icons=true&locale=en" alt="teertho-kamol" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teertho-kamol&" alt="teertho-kamol" /></p>
 
-### IDE & Code-Editors:
-* PyCharm
+### 💻 IDE & Code-Editors:
+* PyCharm <br/>
 * Visual Studio Code <br/> 
 * IntelliJ IDEA <br/>
 * NetBeans <br/>
-* Android Studio 
-* Code::Blocks 
+* Android Studio <br/>
+* Code::Blocks <br/>
 
 
 ### 👨🏻‍🎓 Education:
-
 *  B.Sc. in Software Engineering (running)  
    Daffodil International University  
    Dhanmondi, Dhaka.
@@ -54,13 +53,11 @@
    Pirgachha, Rangpur.
 
 ### 💬 Languages:
-
 *  Bangla : Native <br/>
 *  Hindi :  Intermediate <br/>
 *  English : Advanced <br/>
    
 ### 🎯 Sports / Games / Activities / Hobby:
-
   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Video Gaming <br/>
   📱 App Designing, 📝 Writing, 🍳 cooking <br/>
   🎥 Watching Movies, 🏊‍♂️ Swimming, 🚶‍♂️ Walking <br/>
