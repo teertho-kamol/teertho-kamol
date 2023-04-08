@@ -59,33 +59,20 @@
 
 ### 💬 Languages:
 
--   🇧🇩 Bangla : Native
--   🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
--   🇮🇳 Hindi : Intermediate
+   Bangla : Native
+   Hindi : Intermediate
+   English : Advanced
+   
+### 🎯 Sports / Games / Activities / Hobby:
 
-
-<!-- my languages section ends here  -->
-
-<!-- my sports and game section starts here  -->
----
-### 🎯 &nbsp; Sports / Game / Activities / Hobby:
-
--   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
--  💻 Web Designing, 🎥 Watching Movies
--   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
-<!-- my sports and games section ends here  -->
-<!-- Honors & awards section starts here  -->
-
-<!-- ### 🏆 Honors & Awards :
-
--   Nothing Yet -->
+  🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
+  💻 Web Designing, 🎥 Watching Movies
+  🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharif-Minhaz.visitor-badge&left_color=gray&right_color=blue)
 
----
 
 Thanks for going through my Portfolio.
-All rights reserved by Sharif Minhaz @2021-2022
-
+All rights reserved by teertho-kamol @2022-2023
