@@ -66,8 +66,8 @@
 ### 🎯 Sports / Games / Activities / Hobby:
 
   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Video Gaming <br/>
-  📱 App Designing, 🎥 Watching Movies <br/>
-  🏊‍♂️ Swimming, 🚶‍♂️ Walking, <br/>
+  📱 App Designing, 📝 Writing, 🍳 cooking <br/>
+  🎥 Watching Movies, 🏊‍♂️ Swimming, 🚶‍♂️ Walking <br/>
 
 
 All rights reserved by teertho-kamol @2020
