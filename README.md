@@ -51,16 +51,13 @@
    Daffodil International University  
    Dhanmondi, Dhaka.
 *  H.S.C  
-   Collectorate School and College, Rangpur <br/> 
+   Collectorate School and College <br/> 
    Rangpur.
 *  S.S.C  
    Pirgachha J.N Govt. Model High School 
    Pirgachha, Rangpur.
 
-<!-- education section ends here  -->
-
-<!-- my languages section starts here  -->
-### 💬 &nbsp; Languages:
+### 💬 Languages:
 
 -   🇧🇩 Bangla : Native
 -   🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
