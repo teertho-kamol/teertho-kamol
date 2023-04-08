@@ -66,13 +66,8 @@
 ### 🎯 Sports / Games / Activities / Hobby:
 
   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
-  💻 Web Designing, 🎥 Watching Movies
+  💻 App Designing, 🎥 Watching Movies
   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
 
-#### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharif-Minhaz.visitor-badge&left_color=gray&right_color=blue)
-
-
-Thanks for going through my Portfolio.
 All rights reserved by teertho-kamol @2022-2023
