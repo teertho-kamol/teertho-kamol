@@ -54,7 +54,7 @@
    Collectorate School and College <br/> 
    Rangpur.
 *  S.S.C  
-   Pirgachha J.N Govt. Model High School 
+   Pirgachha J.N Govt. Model High School <br/>
    Pirgachha, Rangpur.
 
 ### 💬 Languages:
