@@ -33,17 +33,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teertho-kamol&" alt="teertho-kamol" /></p>
 
 ### IDE & Code-Editors:
+* PyCharm
+* Visual Studio Code <br/> 
+* IntelliJ IDEA <br/>
+* NetBeans <br/>
+* Android Studio 
+* Code::Blocks 
 
-<img align="left" alt="vs-code" title="visual studio code" width="45" hspace="5" src="" />
-<img align="left" alt="notepad++" title="notepad++" width="65" hspace="5" src="" />
-<img align="left" alt="code-block" title="code-blocks" width="45" hspace="5" src="" />
-<img align="left" alt="netbeans" title="netbeans" width="45" hspace="5" src="" />
-<img align="left" alt="sql-server" title="sql-server" width="45" hspace="5" src="" />
-<img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="" />
-<img align="left" alt="IntelliJ_IDEA" title="IntelliJ IDEA" width="45" hspace="5" src="" />
-<br />
-<br />
-<br />
 
 ### 👨🏻‍🎓 Education:
 
