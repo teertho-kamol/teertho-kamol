@@ -21,9 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18000805/teertho-kamol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18000805/teertho-kamol" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/teertho.kamol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/teertho.kamol" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/teerthokamol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/teerthokamol" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@teerthokamol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@teerthokamol" height="30" width="40" /></a>
 </p>
 
