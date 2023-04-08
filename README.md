@@ -58,9 +58,9 @@
 *  English : Advanced <br/>
    
 ### 🎯 Sports / Games / Activities / Hobby:
-    🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Video Gaming <br/>
-    📱 App Designing, 📝 Writing, 🍳 cooking <br/>
-    🎥 Watching Movies, 🏊‍♂️ Swimming, 🚶‍♂️ Walking <br/>
+    🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Video Gaming 
+    📱 App Designing, 📝 Writing, 🍳 cooking 
+    🎥 Watching Movies, 🏊‍♂️ Swimming, 🚶‍♂️ Walking 
 
 
 All rights reserved by teertho-kamol @2020
