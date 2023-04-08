@@ -59,15 +59,15 @@
 
 ### 💬 Languages:
 
-   Bangla : Native
-   Hindi : Intermediate
-   English : Advanced
+*  Bangla : Native <br/>
+*  Hindi :  Intermediate <br/>
+*  English : Advanced <br/>
    
 ### 🎯 Sports / Games / Activities / Hobby:
 
-  🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
-  💻 App Designing, 🎥 Watching Movies
-  🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
+  🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Video Gaming <br/>
+  💻 App Designing, 🎥 Watching Movies <br/>
+  🏊‍♂️ Swimming, 🚶‍♂️ Walking, <br/>
 
 
 All rights reserved by teertho-kamol @2022-2023
