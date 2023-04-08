@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teertho-kamol&show_icons=true&locale=en" alt="teertho-kamol" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teertho-kamol&" alt="teertho-kamol" /></p>
 
-### 💻 &nbsp;IDE & Code-Editors I Use:
+### IDE & Code-Editors:
 
 <img align="left" alt="vs-code" title="visual studio code" width="45" hspace="5" src="./images/Visual_Studio_Code.png" />
 <img align="left" alt="notepad++" title="notepad++" width="65" hspace="5" src="./images/notepadpp.png" />
@@ -44,31 +44,18 @@
 <br />
 <br />
 <br />
-<p>note: more toos to come.</p>
-<!-- other skills and my videos for computer science section starts here  -->
 
-<!-- work experience section starts here  -->
+### 👨🏻‍🎓 Education:
 
-<!---### 💼 &nbsp; Employment History
-
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Web Designer | CoreLab IT                                    | May 2020- Running   | Mathbaria, Pirojpur   |
-| Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   | --->
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
-<br />
-### 👨🏻‍🎓 &nbsp; Education
-
-1. B.Sc. in Software Engineering (running)  
+*  B.Sc. in Software Engineering (running)  
    Daffodil International University  
    Dhanmondi, Dhaka.
-2. H.S.C  
-   Residential Laboratory College<br/> 
-   Khilkhet, Dhaka.
-3. S.S.C  
-    K.M Latif Institution  
-   Mathbaria, Pirojpur.
+*  H.S.C  
+   Collectorate School and College, Rangpur <br/> 
+   Rangpur.
+*  S.S.C  
+   Pirgachha J.N Govt. Model High School 
+   Pirgachha, Rangpur.
 
 <!-- education section ends here  -->
 
