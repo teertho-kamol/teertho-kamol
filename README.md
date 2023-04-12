@@ -38,7 +38,7 @@
 * IntelliJ IDEA <br/>
 * NetBeans <br/>
 * Android Studio <br/>
-* Code::Blocks <br/>
+* Code::Blocks 
 
 
 ### 👨🏻‍🎓 Education:
