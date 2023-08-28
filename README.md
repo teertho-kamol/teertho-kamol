@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/teertho-kamol](https://github.com/teertho-kamol](https://github.com/teertho-kamol?tab=repositories)
+- 👨‍💻 All of my projects are available at.[(https://github.com/teertho-kamol?tab=repositories)
 
 - 📝 I regularly write articles on [https://github.com/teertho-kamol/Research-Papers](https://github.com/teertho-kamol/Research-Papers)
 
